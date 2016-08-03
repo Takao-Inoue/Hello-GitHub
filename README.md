@@ -1,7 +1,7 @@
 # Hello-GitHub
-Greetings! Practices and sources for GitHub Flavored Markdown (GFM)
+Greetings! A self-made tutorial for GitHub Flavored Markdown (GFM)
 
-## Practices and sources for GitHub Flavored Markdown (GFM)
+## A self-made tutorial for GitHub Flavored Markdown (GFM)
 ### Heading
 #### small heading
 ## Quoting text
