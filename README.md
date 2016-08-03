@@ -136,7 +136,7 @@ GitHub's URL is `https://github.com/github`.
 
 **Boldface** of Boldface is written as `**Boldface**`.
 
-` ``` `
+` ```
 #include <cstdio>
 
 int main() {
@@ -145,7 +145,7 @@ int main() {
    
    return 0;
 }
-` ``` `
+````
 ```
 
 ## Link
