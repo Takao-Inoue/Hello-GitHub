@@ -4,7 +4,7 @@ Greetings! Practices and sources for GitHub Flavored Markdown (GFM)
 ## Practices and sources for GitHub Flavored Markdown (GFM)
 ### Heading
 #### small heading
-## Blockquotes
+## Quoting text
 Proverb of Latin
 > fortuna favet fortibus．
 
@@ -16,7 +16,7 @@ Greetings! Practices and sources for GitHub Flavored Markdown (GFM)
 ## Practices and sources for GitHub Flavored Markdown (GFM)
 ### Heading
 #### small heading
-## Blockquotes
+## Quoting text
 Proverb of Latin
 > fortuna favet fortibus．
 ```
@@ -27,6 +27,8 @@ Proverb of Latin
 
 **This text is bold and _partly italic_.**
 
+~~\#pragma once~~
+
 ```
 (The above source)
 ## Styling text
@@ -34,6 +36,8 @@ Proverb of Latin
 **This text is bold.**
 
 **This text is bold and _partly italic_.**
+
+~~\#pragma once~~
 ```
 ## Unordered lists
 * Good morning : bread and coffee
@@ -156,7 +160,7 @@ Markdown provides backslash escapes for the following characters:
 * \!   exclamation mark
 ```
 
-## Code format
+## Quoting code
 
 GitHub's URL is `https://github.com/github`.
 
@@ -175,7 +179,7 @@ int main() {
 
 ```
 (The above source)
-## Code format
+## Quoting code
 
 GitHub's URL is `https://github.com/github`.
 
