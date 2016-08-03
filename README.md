@@ -21,7 +21,7 @@ Proverb of Latin
 > fortuna favet fortibus．
 ```
 
-## Styling of text
+## Styling text
 *This text is italic.*
 **This text is bold.**
 
@@ -29,7 +29,7 @@ Proverb of Latin
 
 ```
 (The above source)
-## Styling of text
+## Styling text
 *This text is italic.*
 **This text is bold.**
 
