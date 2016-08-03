@@ -216,6 +216,8 @@ The hyperlink to GitHub (https://github.com/github)  with `Let's begin GitHub!` 
 
 For a full list of available emoji and codes, check out [emoji-cheat-sheet.com](http://www.webpagefx.com/tools/emoji-cheat-sheet/).
 
+So many emojis there! Wow!
+
 ```
 (The above source)
 ## Using emoji
@@ -225,6 +227,8 @@ For a full list of available emoji and codes, check out [emoji-cheat-sheet.com](
 * :cherry_blossom: (cherry_blossom)
 
 For a full list of available emoji and codes, check out [emoji-cheat-sheet.com](http://www.webpagefx.com/tools/emoji-cheat-sheet/).
+
+So many emojis there! Wow!
 
 ```
 
