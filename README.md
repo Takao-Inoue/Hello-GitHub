@@ -208,7 +208,7 @@ The hyperlink to GitHub (https://github.com/github)  with `Let's begin GitHub!` 
 [Let's begin GitHub!](https://github.com/github)
 ```
 
-## Using emojis
+## Using emoji
 
 * :crescent_moon: (crescent_moon)
 * :herb: (herb)
@@ -218,7 +218,7 @@ For a full list of available emoji and codes, check out [emoji-cheat-sheet.com](
 
 ```
 (The above source)
-## Using emojis
+## Using emoji
 
 * :crescent_moon: (crescent_moon)
 * :herb: (herb)
