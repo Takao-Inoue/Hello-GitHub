@@ -111,6 +111,10 @@ Proverb of Latin
   2. Category theory
 ```
 
+## Backslash escapes
+
+\*literal asterisks\*
+
 ## Code format
 
 GitHub's URL is `https://github.com/github`.
