@@ -208,6 +208,27 @@ The hyperlink to GitHub (https://github.com/github)  with `Let's begin GitHub!` 
 [Let's begin GitHub!](https://github.com/github)
 ```
 
+## Using emojis
+
+* :crescent_moon: (crescent_moon)
+* :herb: (herb)
+* :cherry_blossom: (cherry_blossom)
+
+For a full list of available emoji and codes, check out [emoji-cheat-sheet.com](http://www.webpagefx.com/tools/emoji-cheat-sheet/).
+
+```
+(The above source)
+## Using emojis
+
+* :crescent_moon: (crescent_moon)
+* :herb: (herb)
+* :cherry_blossom: (cherry_blossom)
+
+For a full list of available emoji and codes, check out [emoji-cheat-sheet.com](http://www.webpagefx.com/tools/emoji-cheat-sheet/).
+
+```
+
+
   
 
 
