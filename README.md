@@ -14,4 +14,22 @@ Proverb of Latin
 
 **This text is bold and _partly italic_.**
 
+## Unordered lists
+* Good morning : bread and coffee
+* Good afternoon : rice, pork, and vegitables
+* Good evening : rice, chicken curry and ice cream
+
+- C++
+- Python
+- Qt
+
+## Orderd lists
+1. STL
+2. C++/CLI
+3. clang
+
+
+
+
+
 
