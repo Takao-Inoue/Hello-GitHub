@@ -19,7 +19,6 @@ Greetings! Practices and sources for GitHub Flavored Markdown (GFM)
 ## Blockquotes
 Proverb of Latin
 > fortuna favet fortibus．
-
 ```
 
 ## Styling of text
@@ -35,7 +34,6 @@ Proverb of Latin
 **This text is bold.**
 
 **This text is bold and _partly italic_.**
-
 ```
 ## Unordered lists
 * Good morning : bread and coffee
@@ -68,7 +66,6 @@ Proverb of Latin
 1. STL
 2. C++/CLI
 3. clang
- 
 ```
 
 ## Hierachy lists
@@ -112,7 +109,6 @@ Proverb of Latin
 5. Computer science and logic
   1. Mizar
   2. Category theory
-
 ```
 
 ## Code format
@@ -140,6 +136,7 @@ GitHub's URL is `https://github.com/github`.
 
 **Boldface** of Boldface is written as `**Boldface**`.
 
+`
 ```
 #include <cstdio>
 
@@ -150,7 +147,7 @@ int main() {
    return 0;
 }
 ```
-
+`
 ```
 
 ## Link
@@ -166,7 +163,6 @@ The hyperlink to GitHub (https://github.com/github)  with `Let's begin GitHub!` 
 The hyperlink to GitHub (https://github.com/github)  with `Let's begin GitHub!` is as follows: 
 
 [Let's begin GitHub!](https://github.com/github)
-
 ```
 
   
