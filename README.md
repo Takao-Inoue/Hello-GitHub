@@ -324,7 +324,7 @@ Hello GitHub!
 2016 year! Congratulations!
 ```
 
-For this yntax highlighting, [linguist](https://github.com/github/linguist) is made use of.
+For this syntax highlighting, [linguist](https://github.com/github/linguist) is made use of.
 
 ```
 (The source of the above)
@@ -364,7 +364,7 @@ Hello GitHub!
 2016 year! Congratulations!
 ` ` ` (Delete two spaces between ` and ` . )
 
-For this yntax highlighting, [linguist](https://github.com/github/linguist) is made use of.
+For this syntax highlighting, [linguist](https://github.com/github/linguist) is made use of.
 ```
 
 
