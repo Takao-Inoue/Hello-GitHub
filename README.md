@@ -35,7 +35,7 @@ Proverb of Latin
   1. Cut elimination theorem
   2. Consistency
 2. Model theory
-  1. classic theory
+  1. Classic theory
     1. Quantifier elimination
     2. Compactness theorem
   2. Stability theory
@@ -65,6 +65,12 @@ int main() {
    return 0;
 }
 ```
+
+## Link
+
+The hyperlink to GitHub (https://github.com/github)  with `Let's begin GitHub!` is as follows: 
+
+[Let's begin GitHub!](https://github.com/github)
 
 
   
