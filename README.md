@@ -14,7 +14,7 @@ Nice words
 >― Mother Teresa
 
 ```
-(The above source)
+(The source of the above)
 # Hello-GitHub
 Greetings! Practices and sources for GitHub Flavored Markdown (GFM)
 
@@ -40,7 +40,7 @@ Nice words
 ~~This is an enigma.~~
 
 ```
-(The above source)
+(The source of the above)
 ## Styling text
 *This text is italic.*
 **This text is bold.**
@@ -65,7 +65,7 @@ Nice words
 3. clang
  
 ```
-(The above source)
+(The source of the above)
 ## Unordered lists
 * Good morning : bread and coffee
 * Good afternoon : rice, pork, and vegitables
@@ -103,7 +103,7 @@ Nice words
   2. Category theory
 
 ```
-(The above source)
+(The source of the above)
 ## Hierachy lists
 ### Mathematical logic
 1. Proof theory
@@ -147,7 +147,7 @@ Markdown(GFM) provides backslash escapes for the following characters:
 * \!   exclamation mark
 
 ```
-(The above source)
+(The source of the above)
 ## Backslash escapes
 
 \*literal asterisks\*
@@ -188,7 +188,7 @@ int main() {
 ```
 
 ```
-(The above source)
+(The source of the above)
 ## Quoting code, a la carte
 
 GitHub's URL is `https://github.com/github`.
@@ -214,7 +214,7 @@ The hyperlink to GitHub (https://github.com/github)  with `Let's begin GitHub!` 
 [Let's begin GitHub!](https://github.com/github)
 
 ```
-(The above source)
+(The source of the above)
 ## Link
 
 The hyperlink to GitHub (https://github.com/github)  with `Let's begin GitHub!` is as follows: 
@@ -233,7 +233,7 @@ For a full list of available emoji and codes, check out [emoji-cheat-sheet.com](
 So many emojis there! Wow! :tada:
 
 ```
-(The above source)
+(The source of the above)
 ## Using emoji
 
 * :crescent_moon: (crescent_moon)
@@ -253,7 +253,7 @@ So many emojis there! Wow! :tada:
 - [ ] Let's learn more GitHub.
 
 ```
-(The above source)
+(The source of the above)
 ## Task lists
 
 - [x] Let's have a break and coffee.
@@ -267,7 +267,7 @@ So many emojis there! Wow! :tada:
 When you mention me, use @Takao-Inoue.
 
 ```
-(The above source)
+(The source of the above)
 ## Mentioning users and teams
 
 When you mention me, use @Takao-Inoue.
@@ -278,7 +278,7 @@ When you mention me, use @Takao-Inoue.
 MUSSER-1997-Software-_Practice_and_Experience.pdf
 
 ```
-(The above source)
+(The source of the above)
 ## Underscores are ignored in multiple occrrences
 
 MUSSER-1997-Software-_Practice_and_Experience.pdf
