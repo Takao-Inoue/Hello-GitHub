@@ -154,7 +154,7 @@ Markdown(GFM) provides backslash escapes for the following characters:
 
 \*\*\*\*\*\*\*\*\*\*  (ten asterisks)
 
-Markdown provides backslash escapes for the following characters:
+Markdown(GFM) provides backslash escapes for the following characters:
 
 * \\   backslash
 * \`   backtick
