@@ -160,7 +160,7 @@ Markdown provides backslash escapes for the following characters:
 * \!   exclamation mark
 ```
 
-## Quoting code
+## Quoting code, a la carte
 
 GitHub's URL is `https://github.com/github`.
 
@@ -179,7 +179,7 @@ int main() {
 
 ```
 (The above source)
-## Quoting code
+## Quoting code, a la carte
 
 GitHub's URL is `https://github.com/github`.
 
