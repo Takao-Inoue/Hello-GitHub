@@ -32,8 +32,8 @@ Proverb of Latin
 ## Hierachy lists
 ### Mathematical logic
 1. Proof theory
-      1.1 Cut elimination theorem
-      1.2 Consistency
+  1. Cut elimination theorem
+  2. Consistency
 2. Model theory
     2.1 classic theory
       2.1.1 Quantifier elimination
