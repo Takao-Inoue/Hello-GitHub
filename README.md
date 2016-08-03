@@ -11,3 +11,7 @@ Proverb of Latin
 ## Styling of text
 *This text is italic.*
 **This text is bold.**
+
+**This text is bold and _partly italic_.**
+
+
