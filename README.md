@@ -35,16 +35,16 @@ Proverb of Latin
   1. Cut elimination theorem
   2. Consistency
 2. Model theory
-    2.1 classic theory
-      2.1.1 Quantifier elimination
-      2.2.2 Compactness theorem
-    2.2 Stability theory
+  1. classic theory
+    1. Quantifier elimination
+    2. Compactness theorem
+  2. Stability theory
 3. Recursion theory
-    3.1 Recursion theorem
-    3.2 Borel hierachy
+  1. Recursion theorem
+  2. Borel hierachy
 4. Set theory
-   4.1 Forcing
-   4.2 Large cadinals
+  1. Forcing
+  2. Large cadinals
 
 
 
