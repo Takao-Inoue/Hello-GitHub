@@ -290,10 +290,25 @@ MUSSER-1997-Software-_Practice_and_Experience.pdf
 
 ## Syntax Highlights
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+```C++
+#include <iostream>
+#include <string>
+#include <utility>
+
+using namespace std;
+
+int main() {
+
+  pair<int, string> myPair(1, "Hello");
+
+  myPair = make_pair(2, "GitHub!"); 
+
+  cout <<myPair.first << endl;
+  cout << myPair.second << endl;
+
+  return 0;
+}
+
 ```
   
 
