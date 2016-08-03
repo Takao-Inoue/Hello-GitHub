@@ -246,6 +246,22 @@ So many emojis there! Wow! :tada:
 
 ```
 
+## Task lists
+
+- [x] Let's have a break and coffee.
+- [ ] Let's go for a walk.
+- [ ] Let's learn more GitHub.
+
+```
+(The above source)
+## Task lists
+
+- [x] Let's have a break and coffee.
+- [ ] Let's go for a walk.
+- [ ] Let's learn more GitHub.
+
+```
+
 
   
 
