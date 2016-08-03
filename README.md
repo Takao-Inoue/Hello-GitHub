@@ -303,16 +303,36 @@ int main() {
 
   myPair = make_pair(2, "GitHub!"); 
 
-  cout <<myPair.first << endl;
+  cout << myPair.first + " ";
   cout << myPair.second << endl;
 
   return 0;
 }
 
 ```
-  
 
+```
+` ` `C++ (Delete two spaces between ` and ` . )
+#include <iostream>
+#include <string>
+#include <utility>
 
+using namespace std;
+
+int main() {
+
+  pair<int, string> myPair(1, "Hello");
+
+  myPair = make_pair(2, "GitHub!"); 
+
+  cout << myPair.first + " ";
+  cout << myPair.second << endl;
+
+  return 0;
+}
+
+` ` ` (Delete two spaces between ` and ` . )
+```
 
 
 
