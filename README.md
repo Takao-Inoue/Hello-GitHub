@@ -27,7 +27,7 @@ Proverb of Latin
 
 **This text is bold and _partly italic_.**
 
-~~\#pragma once~~
+~~This is an enigma.~~
 
 ```
 (The above source)
@@ -37,7 +37,7 @@ Proverb of Latin
 
 **This text is bold and _partly italic_.**
 
-~~\#pragma once~~
+~~This is an enigma.~~
 ```
 ## Unordered lists
 * Good morning : bread and coffee
