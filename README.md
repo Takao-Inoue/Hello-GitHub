@@ -113,7 +113,7 @@ Proverb of Latin
 
 ## Backslash escapes
 
-\*literal asterisks\*
+\*literal asterisks\*   \*\*\*\*\*\*\*\*\*\* (ten asterisks)
 
 Markdown provides backslash escapes for the following characters:
 
