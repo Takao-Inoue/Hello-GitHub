@@ -34,3 +34,23 @@ Hello GitHub!
 *****************************************
 2016 year! Congratulations!
 ```
+
+:bouquet:
+:cherry_blossom:
+:tulip:
+:four_leaf_clover:
+:rose:
+:sunflower:
+:hibiscus:
+:maple_leaf:
+:leaves:
+:fallen_leaf:
+:herb:
+:mushroom:
+:cactus:
+:palm_tree:
+:evergreen_tree:
+:deciduous_tree:
+:chestnut:
+:seedling:
+:blossom:
