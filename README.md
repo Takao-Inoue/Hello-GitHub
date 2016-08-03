@@ -277,11 +277,15 @@ When you mention me, use @Takao-Inoue.
 
 MUSSER-1997-Software-_Practice_and_Experience.pdf
 
+(Musser's imporant paper: David R. Musser, Introspective Sorting and Selection Algorithms, Software-Practice and Experience, Vol. 27(8), 1997, pp. 983–993.) Heap sorts after quick sorts are faster than quick sorts only.
+
 ```
 (The source of the above)
 ## Underscores are ignored in multiple occrrences
 
 MUSSER-1997-Software-_Practice_and_Experience.pdf
+
+(Musser's imporant paper: David R. Musser, Introspective Sorting and Selection Algorithms, Software-Practice and Experience, Vol. 27(8), 1997, pp. 983–993.) Heap sorts after quick sorts are faster than quick sorts only.
 ```
   
 
