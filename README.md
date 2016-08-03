@@ -9,7 +9,7 @@ Proverb of Latin
 > fortuna favet fortibus．
 
 ```
-(Above sources)
+(The above source)
 # Hello-GitHub
 Greetings! Practices and sources for GitHub Flavored Markdown (GFM)
 
@@ -28,7 +28,7 @@ Proverb of Latin
 **This text is bold and _partly italic_.**
 
 ```
-(Above sources)
+(The above source)
 ## Styling of text
 *This text is italic.*
 **This text is bold.**
@@ -51,7 +51,7 @@ Proverb of Latin
 3. clang
  
 ```
-(Above sources)
+(The above source)
 ## Unordered lists
 * Good morning : bread and coffee
 * Good afternoon : rice, pork, and vegitables
@@ -89,7 +89,7 @@ Proverb of Latin
   2. Category theory
 
 ```
-(Above sources)
+(The above source)
 ## Hierachy lists
 ### Mathematical logic
 1. Proof theory
@@ -129,7 +129,7 @@ int main() {
 ```
 
 ```
-(Above sources)
+(The above source)
 ## Code format
 
 GitHub's URL is `https://github.com/github`.
@@ -145,8 +145,7 @@ int main() {
    
    return 0;
 }
-``` `
-```
+``` 
 
 ## Link
 
@@ -155,7 +154,7 @@ The hyperlink to GitHub (https://github.com/github)  with `Let's begin GitHub!` 
 [Let's begin GitHub!](https://github.com/github)
 
 ```
-(Above sources)
+(The above source)
 ## Link
 
 The hyperlink to GitHub (https://github.com/github)  with `Let's begin GitHub!` is as follows: 
