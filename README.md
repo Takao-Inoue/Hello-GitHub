@@ -8,6 +8,11 @@ Greetings! Practices and sources for GitHub Flavored Markdown (GFM)
 Proverb of Latin
 > fortuna favet fortibus．
 
+Nice words
+
+>“Not all of us can do great things. But we can do small things with great love.” 
+>― Mother Teresa
+
 ```
 (The above source)
 # Hello-GitHub
@@ -19,6 +24,11 @@ Greetings! Practices and sources for GitHub Flavored Markdown (GFM)
 ## Quoting text
 Proverb of Latin
 > fortuna favet fortibus．
+
+Nice words
+
+>“Not all of us can do great things. But we can do small things with great love.” 
+>― Mother Teresa
 ```
 
 ## Styling text
