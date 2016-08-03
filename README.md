@@ -262,6 +262,17 @@ So many emojis there! Wow! :tada:
 
 ```
 
+## Mentioning users and teams
+
+When you mention me, use @Takao-Inoue.
+
+```
+(The above source)
+## Mentioning users and teams
+
+When you mention me, use @Takao-Inoue.
+```
+
 
   
 
