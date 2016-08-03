@@ -181,7 +181,7 @@ GitHub's URL is `https://github.com/github`.
 
 **Boldface** of Boldface is written as `**Boldface**`.
 
-` ` ` (delete two spaces between \` and \` )
+` ` ` (delete two spaces between ` and ` )
 #include <cstdio>
 
 int main() {
@@ -190,7 +190,7 @@ int main() {
    
    return 0;
 }
-` ` ` (delete two spaces between \` and \` )
+` ` ` (delete two spaces between `and ` )
 ``` 
 
 ## Link
