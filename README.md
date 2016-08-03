@@ -288,7 +288,7 @@ MUSSER-1997-Software-_Practice_and_Experience.pdf
 (Musser's imporant paper: David R. Musser, Introspective Sorting and Selection Algorithms, Software-Practice and Experience, Vol. 27(8), 1997, pp. 983–993.) Introspective sorts, that is, Heapsorts after quicksorts are faster than quicksorts only.
 ```
 
-## Syntax Highlights
+## Syntax highlighting
 
 ```C++
 #include <iostream>
@@ -324,7 +324,12 @@ Hello GitHub!
 2016 year! Congratulations!
 ```
 
+For this yntax highlighting, [linguist](https://github.com/github/linguist) is made use of.
+
 ```
+(The source of the above)
+## Syntax highlighting
+
 ` ` `C++ (Delete two spaces between ` and ` . )
 #include <iostream>
 #include <string>
@@ -358,6 +363,8 @@ Hello GitHub!
 *****************************************
 2016 year! Congratulations!
 ` ` ` (Delete two spaces between ` and ` . )
+
+For this yntax highlighting, [linguist](https://github.com/github/linguist) is made use of.
 ```
 
 
