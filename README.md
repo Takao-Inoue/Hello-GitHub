@@ -7,6 +7,7 @@ greetings
 ## Blockquotes
 Proverb of Latin
 > fortuna favet fortibus．
+
 ## Styling of text
 *This text is italic.*
 **This text is bold.**
