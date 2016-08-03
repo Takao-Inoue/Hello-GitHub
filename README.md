@@ -287,6 +287,14 @@ MUSSER-1997-Software-_Practice_and_Experience.pdf
 
 (Musser's imporant paper: David R. Musser, Introspective Sorting and Selection Algorithms, Software-Practice and Experience, Vol. 27(8), 1997, pp. 983–993.) Introspective sorts, that is, Heapsorts after quicksorts are faster than quicksorts only.
 ```
+
+## Syntax Highlights
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
   
 
 
