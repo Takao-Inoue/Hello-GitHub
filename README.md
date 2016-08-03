@@ -51,9 +51,9 @@ Proverb of Latin
   
 ## Code format
 
-GitHub's URL is 'https://github.com/github'.
+GitHub's URL is `https://github.com/github`.
 
-**Boldface** of Boldface is written as `**Boldface**.
+**Boldface** of Boldface is written as `**Boldface**`.
 
 
   
