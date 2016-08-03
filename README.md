@@ -297,18 +297,23 @@ MUSSER-1997-Software-_Practice_and_Experience.pdf
 
 using namespace std;
 
-int main() {
+int main(int argc, char** argv) {
+    
+    pair<string, string> myPair_year("2016", "8");
+    pair<string, string> myPair_greetings("Hello", "GitHub!");
+    pair<int, string> myPair_great(2016, "Congratulations!");
 
-  pair<int, string> myPair(1, "Hello");
+    cout << "*****************************************" << endl;
 
-  myPair = make_pair(2, "GitHub!"); 
+    cout << "Year: " + myPair_year.first + ", " + "Month: " + myPair_year.second << endl;
+    cout << myPair_greetings.first + " " + myPair_greetings.second << endl;
 
-  cout << myPair.first + " ";
-  cout << myPair.second << endl;
+    cout << "*****************************************" << endl;
 
-  return 0;
+    cout << myPair_great.first << " year! " << myPair_great.second << endl;
+
+    return 0;
 }
-
 ```
 
 ```
@@ -319,21 +324,25 @@ int main() {
 
 using namespace std;
 
-int main() {
+int main(int argc, char** argv) {
+    
+    pair<string, string> myPair_year("2016", "8");
+    pair<string, string> myPair_greetings("Hello", "GitHub!");
+    pair<int, string> myPair_great(2016, "Congratulations!");
 
-  pair<int, string> myPair(1, "Hello");
+    cout << "*****************************************" << endl;
 
-  myPair = make_pair(2, "GitHub!"); 
+    cout << "Year: " + myPair_year.first + ", " + "Month: " + myPair_year.second << endl;
+    cout << myPair_greetings.first + " " + myPair_greetings.second << endl;
 
-  cout << myPair.first + " ";
-  cout << myPair.second << endl;
+    cout << "*****************************************" << endl;
 
-  return 0;
+    cout << myPair_great.first << " year! " << myPair_great.second << endl;
+
+    return 0;
 }
-
 ` ` ` (Delete two spaces between ` and ` . )
 ```
-
 
 
 
