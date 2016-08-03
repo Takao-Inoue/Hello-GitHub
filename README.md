@@ -314,6 +314,14 @@ int main(int argc, char** argv) {
 
     return 0;
 }
+
+result:
+
+*****************************************
+Year: 2016, Month: 8
+Hello GitHub!
+*****************************************
+2016 year! Congratulations!
 ```
 
 ```
@@ -341,6 +349,14 @@ int main(int argc, char** argv) {
 
     return 0;
 }
+
+result:
+
+*****************************************
+Year: 2016, Month: 8
+Hello GitHub!
+*****************************************
+2016 year! Congratulations!
 ` ` ` (Delete two spaces between ` and ` . )
 ```
 
