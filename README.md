@@ -367,6 +367,3 @@ Hello GitHub!
 For this syntax highlighting, [linguist](https://github.com/github/linguist) is made use of.
 ```
 
-
-
-
