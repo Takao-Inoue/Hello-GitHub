@@ -216,7 +216,7 @@ The hyperlink to GitHub (https://github.com/github)  with `Let's begin GitHub!` 
 
 For a full list of available emoji and codes, check out [emoji-cheat-sheet.com](http://www.webpagefx.com/tools/emoji-cheat-sheet/).
 
-So many emojis there! Wow!
+So many emojis there! Wow! :tada:
 
 ```
 (The above source)
@@ -228,7 +228,7 @@ So many emojis there! Wow!
 
 For a full list of available emoji and codes, check out [emoji-cheat-sheet.com](http://www.webpagefx.com/tools/emoji-cheat-sheet/).
 
-So many emojis there! Wow!
+So many emojis there! Wow! :tada:
 
 ```
 
